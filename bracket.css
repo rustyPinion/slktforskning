@@ -3,3 +3,7 @@ display: block;
 content:"";
 margin-top:1rem;
 }
+
+td.portrett {
+text-align:left;
+}
